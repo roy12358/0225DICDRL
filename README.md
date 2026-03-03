@@ -1,5 +1,10 @@
 # 👤 Roy Chu — Personal Website
 
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-roy12358.github.io-7c6aff?style=for-the-badge&logoColor=white)](https://roy12358.github.io/0225DICDRL/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-38d9f5?style=for-the-badge&logo=github&logoColor=white)](https://roy12358.github.io/0225DICDRL/)
+
+> 🚀 **[View Live Demo → https://roy12358.github.io/0225DICDRL/](https://roy12358.github.io/0225DICDRL/)**
+
 A modern, fully **responsive single-page personal website** for **Roy Chu**, built with pure HTML, CSS, and Vanilla JavaScript. Features a live ticking clock, glassmorphism UI, animated gradient backgrounds, and a complete RWD (Responsive Web Design) layout that adapts seamlessly across desktop, tablet, and mobile.
 
 ---
