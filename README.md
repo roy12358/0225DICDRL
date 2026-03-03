@@ -5,6 +5,8 @@
 
 > 🚀 **[View Live Demo → https://roy12358.github.io/0225DICDRL/](https://roy12358.github.io/0225DICDRL/)**
 
+![Roy Chu Personal Website Preview](preview.png)
+
 A modern, fully **responsive single-page personal website** for **Roy Chu**, built with pure HTML, CSS, and Vanilla JavaScript. Features a live ticking clock, glassmorphism UI, animated gradient backgrounds, and a complete RWD (Responsive Web Design) layout that adapts seamlessly across desktop, tablet, and mobile.
 
 ---
